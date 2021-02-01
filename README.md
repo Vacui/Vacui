@@ -27,12 +27,12 @@ Looking to leverage the knowledge and skills gained from solo development and ed
 **📫 How to reach me:**
 <p>
   <a href="mailto:graizzaromatteo@gmail.com">
-    <img src="https://img.shields.io/badge/-e--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="E-Mail">
+    <img src="https://img.shields.io/badge/-E--Mail-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="E-Mail">
   </a>
   <a href="https://twitter.com/matteograizzaro">
-    <img src="https://img.shields.io/badge/-twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
+    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter">
   </a>
   <a href="https://www.linkedin.com/in/matteo-graizzaro/">
-    <img src="https://img.shields.io/badge/-linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>

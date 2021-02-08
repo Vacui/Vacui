@@ -3,7 +3,7 @@
 **I'm Matteo Graizzaro,**
 
 Game Programmer graduated in Computer Science and experienced in designing and developing videogames. Developer
-of two mobile games and author of several publications on Gamasutra. Dedicated, professional, and detail-oriented.
+of two mobile games and author of several publications on Gamasutra.
 Looking to leverage the knowledge and skills gained from solo development and education in a successful career.
 
 * 🌍 I will go everywhere my passions will drive me;
